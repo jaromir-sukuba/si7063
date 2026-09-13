@@ -13,3 +13,5 @@ Unfortunately, not much is left of their last DMM, the SI7063, so I'm trying to 
 /documents - various documents I collected over the internets
 
 /media - photographs I took, mostly internals
+
+Not much else for now. Maybe later.
