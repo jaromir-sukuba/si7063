@@ -6,9 +6,9 @@ Unfortunately, not much is left of their last DMM, the SI7063, so I'm trying to 
 
 ## What is in this repository:
 
-/EPROM_readout/inguard_27C256 - two files, two readouts of the same memory, just to be sure
+/EPROM_readout/inguard_27C256 - two files, two readouts of the same memory, just to be sure. -3 file is read by a different programmer, to be double sure.
 
-/EPROM_readout/outguard_27C512 - two files, two readouts of the same memory, just to be sure
+/EPROM_readout/outguard_27C512 - two files, two readouts of the same memory, just to be sure. -3 file is read by a different programmer, to be double sure.
 
 /documents - various documents I collected over the internets
 
